@@ -134,7 +134,7 @@ public class PogodiBroj implements IOperations {
 	@Override
 	public int BrPoena() {
 		// TODO Auto-generated method stub
-		p=q*100;
+		p=q*100+5;
 		return p;
 	}
 	
